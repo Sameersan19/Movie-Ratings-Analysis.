@@ -67,9 +67,9 @@ Then open movie_ratings_analysis.ipynb.
 
 # 🌍 Publishing & Deployment.
 You can publish this project in multiple ways:
-# ✔ GitHub → Upload the files for open-source sharing
-# ✔ Google Colab → Run it online without installing Python
-# ✔ Streamlit Web App → Create an interactive movie ratings dashboard
+✔ GitHub → Upload the files for open-source sharing
+✔ Google Colab → Run it online without installing Python
+✔ Streamlit Web App → Create an interactive movie ratings dashboard
 
 # 🚀 Future Improvements.
 🔹 Add sentiment analysis for movie reviews
